@@ -1,10 +1,10 @@
 You are working in repository via-decide/kup-research on branch main.
 
 MISSION
-Build the 'Academic Formatter' in src/publish/latex-gen.js. Automatically generate a LaTeX table comparing the F1-scores of 'Vanilla Week 1' models vs. 'Sovereign Week 3' (Kalman + Thermal) models across the 1M passage dataset.
+Implement the 'Dataset Exporter' in src/data/global-release.js. Package the 1M passages into 100 compressed Parquet shards, including the 'Provenance' hardware signatures.
 
 CONSTRAINTS
-- Include the $D_{KL}$ (Kullback-Leibler Divergence) metrics. - Ensure the 'Academic Publisher' agent verifies the citations for 'Edge AI in Extreme Climates.'
+- Include the 'Six Dimensions' quality report in the metadata. - The 'Academic Publisher' agent must generate a BibTeX citation for the 'KUTCH-TIRE-ANOMALY-1M' benchmark. - Log "RESEARCH MOAT: DEPLOYED TO HUGGINGFACE".
 
 PROCESS (MANDATORY)
 1. Read README.md and AGENTS.md before editing.
