@@ -1,7 +1,7 @@
 You are working in repository via-decide/kup-research on branch main.
 
 MISSION
-Create the 'Academic LaTeX Generator' in src/docs/latex-gen.js. This script pulls data drift metrics, KUTCH-TIRE-ANOMALY dataset statistics, and "Scenario 2" recovery charts into a pre-formatted AAAI/NeurIPS LaTeX template. [span_9](start_span)constraints: Automatically calculate the $p\text{-value}$ and $R^2$ scores for the temperature-drift correlations ($20-48^{\circ}C$) to ensure scientific rigor[span_9](end_span). The agent must flag any "Data Quality" gaps before finalizing the PDF.
+Implement the 'NeurIPS Submission Suite' in src/publish/neurips-draft.js. [span_5](start_span)[span_6](start_span)Use the Vora LLM to draft the "Methodology" section, focusing on how the system handled the "Scenario 2" environmental chaos[span_5](end_span)[span_6](end_span). [span_7](start_span)[span_8](start_span)constraints: The draft must include benchmarks comparing the KUP data-centric approach against generic LLM "interface illusions"[span_7](end_span)[span_8](end_span). [span_9](start_span)Ensure the 10K+ dataset downloads from Hugging Face are cited as the validation foundation[span_9](end_span).
 
 CONSTRAINTS
 Preserve existing code; prefer additive changes.
