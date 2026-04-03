@@ -4,7 +4,7 @@ TARGET
 Validate and repair only the files touched by the previous implementation.
 
 TASK
-Build the 'Provenance Generator' in src/data/watermark.js. Hash the M4 Mac Mini's Serial Number + the 'Scenario 2' seed to create a unique 'Sovereign ID' for every batch of 1,000 vehicles.
+Build the 'Academic Formatter' in src/publish/latex-gen.js. Automatically generate a LaTeX table comparing the F1-scores of 'Vanilla Week 1' models vs. 'Sovereign Week 3' (Kalman + Thermal) models across the 1M passage dataset.
 
 RULES
 1. Audit touched files first and identify regressions.
