@@ -1,7 +1,7 @@
 {
   "repo": "via-decide/kup-research",
   "mode": "codex_then_antigravity",
-  "branch": "simba/build-the-academic-formatter-in-srcpublishlatex-",
+  "branch": "simba/implement-the-dataset-exporter-in-srcdataglobal-",
   "files_to_create": [
     "codex-task.md",
     "antigravity-repair-task.md",
