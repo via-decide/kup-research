@@ -1,10 +1,10 @@
 You are working in repository via-decide/kup-research on branch main.
 
 MISSION
-Implement the 'Dataset Exporter' in src/data/global-release.js. Package the 1M passages into 100 compressed Parquet shards, including the 'Provenance' hardware signatures.
+Execute the 'Final Paper Submission' logic in src/publish/academic-gate.js. Finalize the abstract for 'Sovereign Drift Recovery: Resilience at 48°C and 1M Passages.'
 
 CONSTRAINTS
-- Include the 'Six Dimensions' quality report in the metadata. - The 'Academic Publisher' agent must generate a BibTeX citation for the 'KUTCH-TIRE-ANOMALY-1M' benchmark. - Log "RESEARCH MOAT: DEPLOYED TO HUGGINGFACE".
+- Ensure all $D_{KL}$ and Kalman math is LaTeX-perfect. - Include the citation for the 'KUTCH-TIRE-ANOMALY-1M' dataset on Hugging Face. - Log "ACADEMIC MOAT SECURED: SUBMISSION READY."
 
 PROCESS (MANDATORY)
 1. Read README.md and AGENTS.md before editing.
