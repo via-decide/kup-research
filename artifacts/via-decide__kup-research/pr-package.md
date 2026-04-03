@@ -1,9 +1,9 @@
-Branch: simba/create-the-impact-story-generator-in-srcpublishf
-Title: Create the 'Impact-Story' generator in src/publish/founder-story.js. ...
+Branch: simba/implement-the-bias-comparator-in-srcanalyticsdis
+Title: Implement the 'Bias Comparator' in src/analytics/distribution-check.p...
 
 ## Summary
 - Repo orchestration task for via-decide/kup-research
-- Goal: Create the 'Impact-Story' generator in src/publish/founder-story.js. This module uses the 'Academic Publisher' agent to draft a 500-word "Mission Brief" for each project.
+- Goal: Implement the 'Bias Comparator' in src/analytics/distribution-check.py. Use the Kullback-Leibler (KL) Divergence formula to measure the difference between the Digital Twin's tire-pressure distribution ($P$) and the physical NHAI sensor baseline ($Q$).
 
 ## Testing Checklist
 - [ ] Run unit/integration tests
