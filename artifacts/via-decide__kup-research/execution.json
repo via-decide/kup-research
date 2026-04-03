@@ -1,7 +1,7 @@
 {
   "repo": "via-decide/kup-research",
   "mode": "codex_then_antigravity",
-  "branch": "simba/create-the-methodology-architect-in-srcpublishme",
+  "branch": "simba/create-the-f1-score-validator-in-srcanalyticsval",
   "files_to_create": [
     "codex-task.md",
     "antigravity-repair-task.md",
