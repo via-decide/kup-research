@@ -1,7 +1,7 @@
 {
   "repo": "via-decide/kup-research",
   "mode": "codex_then_antigravity",
-  "branch": "simba/implement-the-hugging-face-uploader-in-srcpublis",
+  "branch": "simba/build-the-benchmark-leaderboard-in-srcwebleaderb",
   "files_to_create": [
     "codex-task.md",
     "antigravity-repair-task.md",

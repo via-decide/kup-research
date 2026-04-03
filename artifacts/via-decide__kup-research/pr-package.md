@@ -1,9 +1,9 @@
-Branch: simba/implement-the-hugging-face-uploader-in-srcpublis
-Title: Implement the 'Hugging Face Uploader' in src/publish/hf-hub-sync.js. ...
+Branch: simba/build-the-benchmark-leaderboard-in-srcwebleaderb
+Title: Build the 'Benchmark Leaderboard' in src/web/leaderboard-api.js. Crea...
 
 ## Summary
 - Repo orchestration task for via-decide/kup-research
-- Goal: Implement the 'Hugging Face Uploader' in src/publish/hf-hub-sync.js. This module must interface with the Hugging Face API to upload the Parquet-formatted KUTCH-TIRE-ANOMALY dataset.
+- Goal: Build the 'Benchmark Leaderboard' in src/web/leaderboard-api.js. Create an automated evaluation pipeline that accepts model weights from external researchers and calculates their accuracy against your extreme-climate noise scenarios.
 
 ## Testing Checklist
 - [ ] Run unit/integration tests

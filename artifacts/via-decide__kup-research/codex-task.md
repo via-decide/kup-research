@@ -1,10 +1,10 @@
 You are working in repository via-decide/kup-research on branch main.
 
 MISSION
-Implement the 'Hugging Face Uploader' in src/publish/hf-hub-sync.js. This module must interface with the Hugging Face API to upload the Parquet-formatted KUTCH-TIRE-ANOMALY dataset.
+Build the 'Benchmark Leaderboard' in src/web/leaderboard-api.js. Create an automated evaluation pipeline that accepts model weights from external researchers and calculates their accuracy against your extreme-climate noise scenarios.
 
 CONSTRAINTS
-Automatically generate the README.md (Dataset Card) using the 'Academic Publisher' agent to include citations for Research Output 1 & 2. Ensure all 1M synthetic vehicle passages are tagged with "Kutch-Extreme-Climate" metadata.
+Automatically generate a "Citation Badge" for any researcher who uses the dataset, ensuring the 10K+ download and high-citation targets are met. Link every entry back to the original AAAI/NeurIPS paper outlines.
 
 PROCESS (MANDATORY)
 1. Read README.md and AGENTS.md before editing.
