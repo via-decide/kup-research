@@ -1,9 +1,9 @@
-Branch: simba/build-the-academic-formatter-in-srcpublishlatex-
-Title: Build the 'Academic Formatter' in src/publish/latex-gen.js. Automatic...
+Branch: simba/implement-the-dataset-exporter-in-srcdataglobal-
+Title: Implement the 'Dataset Exporter' in src/data/global-release.js. Packa...
 
 ## Summary
 - Repo orchestration task for via-decide/kup-research
-- Goal: Build the 'Academic Formatter' in src/publish/latex-gen.js. Automatically generate a LaTeX table comparing the F1-scores of 'Vanilla Week 1' models vs. 'Sovereign Week 3' (Kalman + Thermal) models across the 1M passage dataset.
+- Goal: Implement the 'Dataset Exporter' in src/data/global-release.js. Package the 1M passages into 100 compressed Parquet shards, including the 'Provenance' hardware signatures.
 
 ## Testing Checklist
 - [ ] Run unit/integration tests
