@@ -1,7 +1,7 @@
 {
   "repo": "via-decide/kup-research",
   "mode": "codex_then_antigravity",
-  "branch": "simba/build-the-benchmark-leaderboard-in-srcwebleaderb",
+  "branch": "simba/implement-the-research-prospectus-generator-in-s",
   "files_to_create": [
     "codex-task.md",
     "antigravity-repair-task.md",
