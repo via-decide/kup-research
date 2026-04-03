@@ -1,10 +1,10 @@
 You are working in repository via-decide/kup-research on branch main.
 
 MISSION
-Implement the 'Benchmark Metadata Schema' in src/data/schema-validator.js. Define a JSON-LD structure for each vehicle passage that includes: 1) Ambient Temp ($20-48^{\circ}C$), 2) Signal-to-Noise Ratio (SNR), 3) Drift Coefficient, and 4) Anomaly Label.
+Build the 'Passage Sharder' in src/data/sharding-engine.js. Implement a logic that automatically splits the 1M vehicle passages into 10,000-entry Parquet shards.
 
 CONSTRAINTS
-Every passage must be tagged with a "Scenario 2" pollution level. The 'Academic Publisher' agent must validate that the schema complies with AAAI/NeurIPS dataset submission standards.
+Each shard must maintain a consistent metadata link to the "Scenario 2" drift parameters. The 'Academic Publisher' agent must verify that the sharding doesn't introduce "Context Rot" or data leakage between training and testing sets.
 
 PROCESS (MANDATORY)
 1. Read README.md and AGENTS.md before editing.
