@@ -1,7 +1,7 @@
 {
   "repo": "via-decide/kup-research",
   "mode": "codex_then_antigravity",
-  "branch": "simba/build-the-impact-scraper-in-srcanalyticscitation",
+  "branch": "simba/create-the-academic-latex-generator-in-srcdocsla",
   "files_to_create": [
     "codex-task.md",
     "antigravity-repair-task.md",
