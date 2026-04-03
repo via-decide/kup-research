@@ -1,9 +1,9 @@
-Branch: simba/create-the-methodology-architect-in-srcpublishme
-Title: Create the 'Methodology Architect' in src/publish/methodology-gen.js....
+Branch: simba/create-the-f1-score-validator-in-srcanalyticsval
+Title: Create the 'F1-Score Validator' in src/analytics/validator.py. Compar...
 
 ## Summary
 - Repo orchestration task for via-decide/kup-research
-- Goal: Create the 'Methodology Architect' in src/publish/methodology-gen.js. This module must pull the $D_{KL}$ divergence scores and the Kalman Gain $(\mathbf{K}_k)$ charts from the current chaos simulation.
+- Goal: Create the 'F1-Score Validator' in src/analytics/validator.py. Compare the Kalman-filtered output against the ground-truth "Scenario 2" labels.
 
 ## Testing Checklist
 - [ ] Run unit/integration tests
