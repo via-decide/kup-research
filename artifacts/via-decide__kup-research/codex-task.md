@@ -1,10 +1,10 @@
 You are working in repository via-decide/kup-research on branch main.
 
 MISSION
-Implement the 'Research Prospectus' generator in src/docs/prospectus-gen.js. [span_14](start_span)This module uses the 'Academic Publisher' agent to draft initial abstracts for the three research outputs: Data Drift, the KUTCH-TIRE-ANOMALY dataset, and Data-Centric AI[span_14](end_span). [span_15](start_span)[span_16](start_span)constraints: Ensure the output highlights how KUP beats the 95% failure rate by focusing on data quality over model complexity[span_15](end_span)[span_16](end_span).
+Create the 'Peer Review' Agent Template in src/templates/peer-reviewer.json. Configure the system prompt to critique Research Output 1 (Data Drift) using AAAI/NeurIPS submission criteria.
 
 CONSTRAINTS
-Preserve existing code; prefer additive changes.
+The agent must specifically look for "Scenario 2" collapse data and verify that the 1M synthetic vehicle passages from the benchmark are cited correctly. It should refuse to approve any paper that doesn't clearly explain why data-centric AI outperformed model complexity.
 
 PROCESS (MANDATORY)
 1. Read README.md and AGENTS.md before editing.
