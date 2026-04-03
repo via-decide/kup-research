@@ -1,10 +1,10 @@
 You are working in repository via-decide/kup-research on branch main.
 
 MISSION
-Build the 'Abstract Architect' in src/publish/abstract-gen.js. [span_12](start_span)[span_13](start_span)This module uses the 'Academic Publisher' agent to draft paper abstracts specifically highlighting how "Data-Centric AI" defeated temperature drift ($20-48^{\circ}C$) on the highway.[span_12](end_span)[span_13](end_span) [span_14](start_span)constraints: The output must format citations correctly for the 'KUTCH-TIRE-ANOMALY' dataset and reference the 1M vehicle passage benchmark.[span_14](end_span)
+Build the 'Grant Architect' Agent Template in src/templates/grant-architect.json. [cite_start]Configure the LLM to pull real-world blowout prevention data and KUTCH-TIRE-ANOMALY citation metrics to draft formal grant applications for MeitY or NHAI. [cite: 18-19, 43]
 
 CONSTRAINTS
-Preserve existing code; prefer additive changes.
+Ensure the agent highlights the "Data-Centric AI" principle and the "Reference Architecture" proven at Deendayal Port as the core defensible moat.
 
 PROCESS (MANDATORY)
 1. Read README.md and AGENTS.md before editing.
