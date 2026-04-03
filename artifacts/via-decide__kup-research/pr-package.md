@@ -1,9 +1,9 @@
-Branch: simba/build-the-provenance-generator-in-srcdatawaterma
-Title: Build the 'Provenance Generator' in src/data/watermark.js. Hash the M...
+Branch: simba/build-the-academic-formatter-in-srcpublishlatex-
+Title: Build the 'Academic Formatter' in src/publish/latex-gen.js. Automatic...
 
 ## Summary
 - Repo orchestration task for via-decide/kup-research
-- Goal: Build the 'Provenance Generator' in src/data/watermark.js. Hash the M4 Mac Mini's Serial Number + the 'Scenario 2' seed to create a unique 'Sovereign ID' for every batch of 1,000 vehicles.
+- Goal: Build the 'Academic Formatter' in src/publish/latex-gen.js. Automatically generate a LaTeX table comparing the F1-scores of 'Vanilla Week 1' models vs. 'Sovereign Week 3' (Kalman + Thermal) models across the 1M passage dataset.
 
 ## Testing Checklist
 - [ ] Run unit/integration tests
