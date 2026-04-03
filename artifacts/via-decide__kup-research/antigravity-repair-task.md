@@ -4,7 +4,7 @@ TARGET
 Validate and repair only the files touched by the previous implementation.
 
 TASK
-Build the 'Abstract Architect' in src/publish/abstract-gen.js. [span_12](start_span)[span_13](start_span)This module uses the 'Academic Publisher' agent to draft paper abstracts specifically highlighting how "Data-Centric AI" defeated temperature drift ($20-48^{\circ}C$) on the highway.[span_12](end_span)[span_13](end_span) [span_14](start_span)constraints: The output must format citations correctly for the 'KUTCH-TIRE-ANOMALY' dataset and reference the 1M vehicle passage benchmark.[span_14](end_span)
+Build the 'Grant Architect' Agent Template in src/templates/grant-architect.json. [cite_start]Configure the LLM to pull real-world blowout prevention data and KUTCH-TIRE-ANOMALY citation metrics to draft formal grant applications for MeitY or NHAI. [cite: 18-19, 43]
 
 RULES
 1. Audit touched files first and identify regressions.
