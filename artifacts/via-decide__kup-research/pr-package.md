@@ -1,9 +1,9 @@
-Branch: simba/create-the-strategy-ingester-in-srcbridgeviadeci
-Title: Create the 'Strategy Ingester' in src/bridge/viadecide-link.js. This ...
+Branch: simba/implement-the-benchmark-metadata-schema-in-srcda
+Title: Implement the 'Benchmark Metadata Schema' in src/data/schema-validato...
 
 ## Summary
 - Repo orchestration task for via-decide/kup-research
-- Goal: Create the 'Strategy Ingester' in src/bridge/viadecide-link.js. This module must pull real-time drift detection and blowout-risk data from the lab and format it into "Strategic Insight Reports" for ViaDecide. [cite_start]constraints: The output must include ONDC-compatible metadata to trigger commercial discovery for tire inventory or maintenance services.[span_7](end_span)[span_8](end_span)[span_9](end_span)
+- Goal: Implement the 'Benchmark Metadata Schema' in src/data/schema-validator.js. Define a JSON-LD structure for each vehicle passage that includes: 1) Ambient Temp ($20-48^{\circ}C$), 2) Signal-to-Noise Ratio (SNR), 3) Drift Coefficient, and 4) Anomaly Label.
 
 ## Testing Checklist
 - [ ] Run unit/integration tests
