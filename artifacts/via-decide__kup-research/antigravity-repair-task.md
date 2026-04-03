@@ -4,7 +4,7 @@ TARGET
 Validate and repair only the files touched by the previous implementation.
 
 TASK
-Build the 'Impact Scraper' in src/analytics/citation-tracker.py. Create a service that monitors Hugging Face downloads and Google Scholar citations for your published papers and datasets.
+Create the 'Academic LaTeX Generator' in src/docs/latex-gen.js. This script pulls data drift metrics, KUTCH-TIRE-ANOMALY dataset statistics, and "Scenario 2" recovery charts into a pre-formatted AAAI/NeurIPS LaTeX template. [span_9](start_span)constraints: Automatically calculate the $p\text{-value}$ and $R^2$ scores for the temperature-drift correlations ($20-48^{\circ}C$) to ensure scientific rigor[span_9](end_span). The agent must flag any "Data Quality" gaps before finalizing the PDF.
 
 RULES
 1. Audit touched files first and identify regressions.
