@@ -1,10 +1,10 @@
 You are working in repository via-decide/kup-research on branch main.
 
 MISSION
-Create the 'F1-Score Validator' in src/analytics/validator.py. Compare the Kalman-filtered output against the ground-truth "Scenario 2" labels.
+Build the 'Provenance Generator' in src/data/watermark.js. Hash the M4 Mac Mini's Serial Number + the 'Scenario 2' seed to create a unique 'Sovereign ID' for every batch of 1,000 vehicles.
 
 CONSTRAINTS
-Preserve existing code; prefer additive changes.
+Every Parquet metadata header must include the hash. This prevents "Dataset Dilution" and proves the authenticity of the KUTCH-TIRE-ANOMALY benchmark.
 
 PROCESS (MANDATORY)
 1. Read README.md and AGENTS.md before editing.
