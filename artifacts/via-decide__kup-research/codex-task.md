@@ -1,10 +1,10 @@
 You are working in repository via-decide/kup-research on branch main.
 
 MISSION
-Build the 'Impact Scraper' in src/analytics/citation-tracker.py. Create a service that monitors Hugging Face downloads and Google Scholar citations for your published papers and datasets.
+Create the 'Academic LaTeX Generator' in src/docs/latex-gen.js. This script pulls data drift metrics, KUTCH-TIRE-ANOMALY dataset statistics, and "Scenario 2" recovery charts into a pre-formatted AAAI/NeurIPS LaTeX template. [span_9](start_span)constraints: Automatically calculate the $p\text{-value}$ and $R^2$ scores for the temperature-drift correlations ($20-48^{\circ}C$) to ensure scientific rigor[span_9](end_span). The agent must flag any "Data Quality" gaps before finalizing the PDF.
 
 CONSTRAINTS
-The output must generate a weekly "Research Influence Report" formatted for Path 2 stakeholders. It must specifically track the use of your "Scenario 2" environmental chaos framework in other papers.
+Preserve existing code; prefer additive changes.
 
 PROCESS (MANDATORY)
 1. Read README.md and AGENTS.md before editing.
