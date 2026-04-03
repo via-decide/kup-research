@@ -1,10 +1,10 @@
 You are working in repository via-decide/kup-research on branch main.
 
 MISSION
-Implement the 'NeurIPS Submission Suite' in src/publish/neurips-draft.js. [span_5](start_span)[span_6](start_span)Use the Vora LLM to draft the "Methodology" section, focusing on how the system handled the "Scenario 2" environmental chaos[span_5](end_span)[span_6](end_span). [span_7](start_span)[span_8](start_span)constraints: The draft must include benchmarks comparing the KUP data-centric approach against generic LLM "interface illusions"[span_7](end_span)[span_8](end_span). [span_9](start_span)Ensure the 10K+ dataset downloads from Hugging Face are cited as the validation foundation[span_9](end_span).
+Build the 'Institutional Wiki' in src/docs/knowledge-hub.js. This module must automatically generate documentation from the 'Scenario 2' recovery logs. [span_16](start_span)[span_17](start_span)It should highlight "What Worked" and "Why It Failed" for extreme-climate AI[span_16](end_span)[span_17](end_span).
 
 CONSTRAINTS
-Preserve existing code; prefer additive changes.
+Format the output to be easily citable for the AAAI/NeurIPS papers. [span_18](start_span)[span_19](start_span)Ensure that the "KUTCH-TIRE-ANOMALY" metadata standards are strictly followed[span_18](end_span)[span_19](end_span).
 
 PROCESS (MANDATORY)
 1. Read README.md and AGENTS.md before editing.
