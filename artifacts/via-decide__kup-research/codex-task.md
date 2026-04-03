@@ -1,10 +1,10 @@
 You are working in repository via-decide/kup-research on branch main.
 
 MISSION
-Create the 'Methodology Architect' in src/publish/methodology-gen.js. This module must pull the $D_{KL}$ divergence scores and the Kalman Gain $(\mathbf{K}_k)$ charts from the current chaos simulation.
+Create the 'F1-Score Validator' in src/analytics/validator.py. Compare the Kalman-filtered output against the ground-truth "Scenario 2" labels.
 
 CONSTRAINTS
-- The 'Academic Publisher' agent must draft a LaTeX-compatible description of the "Sovereign Drift Recovery" framework. - Ensure the 100K passage "Scenario 2" dataset is cited as the primary benchmark.
+Preserve existing code; prefer additive changes.
 
 PROCESS (MANDATORY)
 1. Read README.md and AGENTS.md before editing.
