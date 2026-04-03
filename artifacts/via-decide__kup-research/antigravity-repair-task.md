@@ -4,7 +4,7 @@ TARGET
 Validate and repair only the files touched by the previous implementation.
 
 TASK
-Build the 'Academic Formatter' in src/publish/latex-gen.js. Automatically generate a LaTeX table comparing the F1-scores of 'Vanilla Week 1' models vs. 'Sovereign Week 3' (Kalman + Thermal) models across the 1M passage dataset.
+Implement the 'Dataset Exporter' in src/data/global-release.js. Package the 1M passages into 100 compressed Parquet shards, including the 'Provenance' hardware signatures.
 
 RULES
 1. Audit touched files first and identify regressions.
