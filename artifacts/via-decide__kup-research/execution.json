@@ -1,7 +1,7 @@
 {
   "repo": "via-decide/kup-research",
   "mode": "codex_then_antigravity",
-  "branch": "simba/create-the-f1-score-validator-in-srcanalyticsval",
+  "branch": "simba/build-the-provenance-generator-in-srcdatawaterma",
   "files_to_create": [
     "codex-task.md",
     "antigravity-repair-task.md",

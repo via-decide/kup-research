@@ -4,7 +4,7 @@ TARGET
 Validate and repair only the files touched by the previous implementation.
 
 TASK
-Create the 'F1-Score Validator' in src/analytics/validator.py. Compare the Kalman-filtered output against the ground-truth "Scenario 2" labels.
+Build the 'Provenance Generator' in src/data/watermark.js. Hash the M4 Mac Mini's Serial Number + the 'Scenario 2' seed to create a unique 'Sovereign ID' for every batch of 1,000 vehicles.
 
 RULES
 1. Audit touched files first and identify regressions.
