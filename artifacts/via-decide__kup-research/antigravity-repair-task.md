@@ -4,7 +4,7 @@ TARGET
 Validate and repair only the files touched by the previous implementation.
 
 TASK
-Implement the 'Hugging Face Uploader' in src/publish/hf-hub-sync.js. This module must interface with the Hugging Face API to upload the Parquet-formatted KUTCH-TIRE-ANOMALY dataset.
+Build the 'Benchmark Leaderboard' in src/web/leaderboard-api.js. Create an automated evaluation pipeline that accepts model weights from external researchers and calculates their accuracy against your extreme-climate noise scenarios.
 
 RULES
 1. Audit touched files first and identify regressions.
