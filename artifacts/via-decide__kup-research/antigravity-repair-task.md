@@ -4,7 +4,7 @@ TARGET
 Validate and repair only the files touched by the previous implementation.
 
 TASK
-Create the 'Cold-Shard' manager in src/data/storage-optimizer.js. Automatically move Parquet shards older than 48 hours to remote storage.
+Generate dataset pipeline 'KUTCH-TIRE-ANOMALY' in datasets/generator.py.
 
 RULES
 1. Audit touched files first and identify regressions.

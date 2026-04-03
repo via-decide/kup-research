@@ -1,9 +1,9 @@
-Branch: simba/create-the-cold-shard-manager-in-srcdatastorage-
-Title: Create the 'Cold-Shard' manager in src/data/storage-optimizer.js. Aut...
+Branch: simba/generate-dataset-pipeline-kutch-tire-anomaly-in-
+Title: Generate dataset pipeline 'KUTCH-TIRE-ANOMALY' in datasets/generator.py.
 
 ## Summary
 - Repo orchestration task for via-decide/kup-research
-- Goal: Create the 'Cold-Shard' manager in src/data/storage-optimizer.js. Automatically move Parquet shards older than 48 hours to remote storage.
+- Goal: Generate dataset pipeline 'KUTCH-TIRE-ANOMALY' in datasets/generator.py.
 
 ## Testing Checklist
 - [ ] Run unit/integration tests
