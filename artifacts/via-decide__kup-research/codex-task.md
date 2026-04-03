@@ -1,10 +1,10 @@
 You are working in repository via-decide/kup-research on branch main.
 
 MISSION
-Build the 'Institutional Wiki' in src/docs/knowledge-hub.js. This module must automatically generate documentation from the 'Scenario 2' recovery logs. [span_16](start_span)[span_17](start_span)It should highlight "What Worked" and "Why It Failed" for extreme-climate AI[span_16](end_span)[span_17](end_span).
+Build the 'Abstract Architect' in src/publish/abstract-gen.js. [span_12](start_span)[span_13](start_span)This module uses the 'Academic Publisher' agent to draft paper abstracts specifically highlighting how "Data-Centric AI" defeated temperature drift ($20-48^{\circ}C$) on the highway.[span_12](end_span)[span_13](end_span) [span_14](start_span)constraints: The output must format citations correctly for the 'KUTCH-TIRE-ANOMALY' dataset and reference the 1M vehicle passage benchmark.[span_14](end_span)
 
 CONSTRAINTS
-Format the output to be easily citable for the AAAI/NeurIPS papers. [span_18](start_span)[span_19](start_span)Ensure that the "KUTCH-TIRE-ANOMALY" metadata standards are strictly followed[span_18](end_span)[span_19](end_span).
+Preserve existing code; prefer additive changes.
 
 PROCESS (MANDATORY)
 1. Read README.md and AGENTS.md before editing.
