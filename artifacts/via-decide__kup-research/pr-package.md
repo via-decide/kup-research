@@ -1,9 +1,9 @@
-Branch: simba/implement-the-dataset-exporter-in-srcdataglobal-
-Title: Implement the 'Dataset Exporter' in src/data/global-release.js. Packa...
+Branch: simba/execute-the-final-paper-submission-logic-in-srcp
+Title: Execute the 'Final Paper Submission' logic in src/publish/academic-ga...
 
 ## Summary
 - Repo orchestration task for via-decide/kup-research
-- Goal: Implement the 'Dataset Exporter' in src/data/global-release.js. Package the 1M passages into 100 compressed Parquet shards, including the 'Provenance' hardware signatures.
+- Goal: Execute the 'Final Paper Submission' logic in src/publish/academic-gate.js. Finalize the abstract for 'Sovereign Drift Recovery: Resilience at 48°C and 1M Passages.'
 
 ## Testing Checklist
 - [ ] Run unit/integration tests
