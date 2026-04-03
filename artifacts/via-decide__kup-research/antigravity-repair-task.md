@@ -4,7 +4,7 @@ TARGET
 Validate and repair only the files touched by the previous implementation.
 
 TASK
-Implement the 'Benchmark Exporter' in src/data/benchmark-generator.js. Create a service that aggregates validated sensor passages from the digital twin into a standardized Parquet format. [span_7](start_span)constraints: Every entry must include metadata for the three "Scenario 2" pollution levels (None, Moderate, Extreme)[span_7](end_span). Use the Sovereign theme to log the real-time progress of the 1M passage export to the terminal.
+Implement the 'Hugging Face Uploader' in src/publish/hf-hub-sync.js. This module must interface with the Hugging Face API to upload the Parquet-formatted KUTCH-TIRE-ANOMALY dataset.
 
 RULES
 1. Audit touched files first and identify regressions.
