@@ -1,10 +1,10 @@
 You are working in repository via-decide/kup-research on branch main.
 
 MISSION
-Build the 'Passage Sharder' in src/data/sharding-engine.js. Implement a logic that automatically splits the 1M vehicle passages into 10,000-entry Parquet shards.
+Create the 'Impact-Story' generator in src/publish/founder-story.js. This module uses the 'Academic Publisher' agent to draft a 500-word "Mission Brief" for each project.
 
 CONSTRAINTS
-Each shard must maintain a consistent metadata link to the "Scenario 2" drift parameters. The 'Academic Publisher' agent must verify that the sharding doesn't introduce "Context Rot" or data leakage between training and testing sets.
+The story must focus on the "Human Impact" (e.g., saving lives on NH-41) and the "Technical Moat" (e.g., beating Context Rot). Automatically generate a high-signal README.md for their repository.
 
 PROCESS (MANDATORY)
 1. Read README.md and AGENTS.md before editing.
