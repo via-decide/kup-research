@@ -1,10 +1,10 @@
 You are working in repository via-decide/kup-research on branch main.
 
 MISSION
-Implement the 'Benchmark Exporter' in src/data/benchmark-generator.js. Create a service that aggregates validated sensor passages from the digital twin into a standardized Parquet format. [span_7](start_span)constraints: Every entry must include metadata for the three "Scenario 2" pollution levels (None, Moderate, Extreme)[span_7](end_span). Use the Sovereign theme to log the real-time progress of the 1M passage export to the terminal.
+Implement the 'Hugging Face Uploader' in src/publish/hf-hub-sync.js. This module must interface with the Hugging Face API to upload the Parquet-formatted KUTCH-TIRE-ANOMALY dataset.
 
 CONSTRAINTS
-Preserve existing code; prefer additive changes.
+Automatically generate the README.md (Dataset Card) using the 'Academic Publisher' agent to include citations for Research Output 1 & 2. Ensure all 1M synthetic vehicle passages are tagged with "Kutch-Extreme-Climate" metadata.
 
 PROCESS (MANDATORY)
 1. Read README.md and AGENTS.md before editing.
