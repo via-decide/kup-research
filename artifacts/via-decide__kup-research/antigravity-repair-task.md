@@ -4,7 +4,7 @@ TARGET
 Validate and repair only the files touched by the previous implementation.
 
 TASK
-Implement the 'Bias Comparator' in src/analytics/distribution-check.py. Use the Kullback-Leibler (KL) Divergence formula to measure the difference between the Digital Twin's tire-pressure distribution ($P$) and the physical NHAI sensor baseline ($Q$).
+Create the 'Methodology Architect' in src/publish/methodology-gen.js. This module must pull the $D_{KL}$ divergence scores and the Kalman Gain $(\mathbf{K}_k)$ charts from the current chaos simulation.
 
 RULES
 1. Audit touched files first and identify regressions.
