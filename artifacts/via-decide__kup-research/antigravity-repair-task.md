@@ -4,7 +4,7 @@ TARGET
 Validate and repair only the files touched by the previous implementation.
 
 TASK
-Build the 'Passage Sharder' in src/data/sharding-engine.js. Implement a logic that automatically splits the 1M vehicle passages into 10,000-entry Parquet shards.
+Create the 'Impact-Story' generator in src/publish/founder-story.js. This module uses the 'Academic Publisher' agent to draft a 500-word "Mission Brief" for each project.
 
 RULES
 1. Audit touched files first and identify regressions.
