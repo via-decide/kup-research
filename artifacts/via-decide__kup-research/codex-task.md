@@ -1,10 +1,10 @@
 You are working in repository via-decide/kup-research on branch main.
 
 MISSION
-Build the 'Grant Architect' Agent Template in src/templates/grant-architect.json. [cite_start]Configure the LLM to pull real-world blowout prevention data and KUTCH-TIRE-ANOMALY citation metrics to draft formal grant applications for MeitY or NHAI. [cite: 18-19, 43]
+Create the 'Strategy Ingester' in src/bridge/viadecide-link.js. This module must pull real-time drift detection and blowout-risk data from the lab and format it into "Strategic Insight Reports" for ViaDecide. [cite_start]constraints: The output must include ONDC-compatible metadata to trigger commercial discovery for tire inventory or maintenance services.[span_7](end_span)[span_8](end_span)[span_9](end_span)
 
 CONSTRAINTS
-Ensure the agent highlights the "Data-Centric AI" principle and the "Reference Architecture" proven at Deendayal Port as the core defensible moat.
+Preserve existing code; prefer additive changes.
 
 PROCESS (MANDATORY)
 1. Read README.md and AGENTS.md before editing.
