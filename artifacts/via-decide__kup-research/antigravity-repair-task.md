@@ -4,7 +4,7 @@ TARGET
 Validate and repair only the files touched by the previous implementation.
 
 TASK
-Build the 'Grant Architect' Agent Template in src/templates/grant-architect.json. [cite_start]Configure the LLM to pull real-world blowout prevention data and KUTCH-TIRE-ANOMALY citation metrics to draft formal grant applications for MeitY or NHAI. [cite: 18-19, 43]
+Create the 'Strategy Ingester' in src/bridge/viadecide-link.js. This module must pull real-time drift detection and blowout-risk data from the lab and format it into "Strategic Insight Reports" for ViaDecide. [cite_start]constraints: The output must include ONDC-compatible metadata to trigger commercial discovery for tire inventory or maintenance services.[span_7](end_span)[span_8](end_span)[span_9](end_span)
 
 RULES
 1. Audit touched files first and identify regressions.
