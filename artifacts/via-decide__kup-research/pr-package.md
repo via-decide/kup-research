@@ -1,9 +1,9 @@
-Branch: simba/create-the-f1-score-validator-in-srcanalyticsval
-Title: Create the 'F1-Score Validator' in src/analytics/validator.py. Compar...
+Branch: simba/build-the-provenance-generator-in-srcdatawaterma
+Title: Build the 'Provenance Generator' in src/data/watermark.js. Hash the M...
 
 ## Summary
 - Repo orchestration task for via-decide/kup-research
-- Goal: Create the 'F1-Score Validator' in src/analytics/validator.py. Compare the Kalman-filtered output against the ground-truth "Scenario 2" labels.
+- Goal: Build the 'Provenance Generator' in src/data/watermark.js. Hash the M4 Mac Mini's Serial Number + the 'Scenario 2' seed to create a unique 'Sovereign ID' for every batch of 1,000 vehicles.
 
 ## Testing Checklist
 - [ ] Run unit/integration tests
