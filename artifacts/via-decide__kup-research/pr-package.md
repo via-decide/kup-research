@@ -1,9 +1,9 @@
-Branch: simba/build-the-passage-sharder-in-srcdatasharding-eng
-Title: Build the 'Passage Sharder' in src/data/sharding-engine.js. Implement...
+Branch: simba/create-the-impact-story-generator-in-srcpublishf
+Title: Create the 'Impact-Story' generator in src/publish/founder-story.js. ...
 
 ## Summary
 - Repo orchestration task for via-decide/kup-research
-- Goal: Build the 'Passage Sharder' in src/data/sharding-engine.js. Implement a logic that automatically splits the 1M vehicle passages into 10,000-entry Parquet shards.
+- Goal: Create the 'Impact-Story' generator in src/publish/founder-story.js. This module uses the 'Academic Publisher' agent to draft a 500-word "Mission Brief" for each project.
 
 ## Testing Checklist
 - [ ] Run unit/integration tests
