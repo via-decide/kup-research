@@ -1,9 +1,9 @@
-Branch: simba/generate-dataset-pipeline-kutch-tire-anomaly-in-
-Title: Generate dataset pipeline 'KUTCH-TIRE-ANOMALY' in datasets/generator.py.
+Branch: simba/generate-the-high-frequency-infrastructure-execu
+Title: Generate the 'High-Frequency Infrastructure Execution' research paper...
 
 ## Summary
 - Repo orchestration task for via-decide/kup-research
-- Goal: Generate dataset pipeline 'KUTCH-TIRE-ANOMALY' in datasets/generator.py.
+- Goal: Generate the 'High-Frequency Infrastructure Execution' research paper in papers/hfi_execution.md.
 
 ## Testing Checklist
 - [ ] Run unit/integration tests

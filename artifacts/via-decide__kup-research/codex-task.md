@@ -1,10 +1,10 @@
 You are working in repository via-decide/kup-research on branch main.
 
 MISSION
-Generate dataset pipeline 'KUTCH-TIRE-ANOMALY' in datasets/generator.py.
+Generate the 'High-Frequency Infrastructure Execution' research paper in papers/hfi_execution.md.
 
 CONSTRAINTS
-- Produce synthetic dataset of 1M vehicle passages. - Each record must include: timestamp vehicle_type speed tire_pressure axle_load anomaly_flag - Export dataset as parquet and CSV formats. - Log "DATASET_GENERATED: KUTCH_TIRE_ANOMALY_1M".
+- Document the April orchestration burst of 1100 contributions. - Analyze the 18.8 activity/sec execution rate. - Explain the API synchronization stall caused by billing telemetry lag. - Include mathematical model for orchestration entropy: System_entropy = Event_rate × Sync_latency - Provide diagrams explaining data center state reconciliation. - Log "RESEARCH_ARTIFACT: HFI_EXECUTION_PAPER_GENERATED".
 
 PROCESS (MANDATORY)
 1. Read README.md and AGENTS.md before editing.

@@ -4,7 +4,7 @@ TARGET
 Validate and repair only the files touched by the previous implementation.
 
 TASK
-Generate dataset pipeline 'KUTCH-TIRE-ANOMALY' in datasets/generator.py.
+Generate the 'High-Frequency Infrastructure Execution' research paper in papers/hfi_execution.md.
 
 RULES
 1. Audit touched files first and identify regressions.
