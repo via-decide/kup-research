@@ -1,10 +1,10 @@
 You are working in repository via-decide/kup-research on branch main.
 
 MISSION
-Create the 'Cold-Shard' manager in src/data/storage-optimizer.js. Automatically move Parquet shards older than 48 hours to remote storage.
+Generate dataset pipeline 'KUTCH-TIRE-ANOMALY' in datasets/generator.py.
 
 CONSTRAINTS
-- Keep a 'Vector-Index' of the cold data locally so the 'Academic Publisher' can still query it. - Log "SSD PURGE COMPLETED | [X] GB FREED | INDEX_INTEGRITY: 100%".
+- Produce synthetic dataset of 1M vehicle passages. - Each record must include: timestamp vehicle_type speed tire_pressure axle_load anomaly_flag - Export dataset as parquet and CSV formats. - Log "DATASET_GENERATED: KUTCH_TIRE_ANOMALY_1M".
 
 PROCESS (MANDATORY)
 1. Read README.md and AGENTS.md before editing.
