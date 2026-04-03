@@ -4,7 +4,7 @@ TARGET
 Validate and repair only the files touched by the previous implementation.
 
 TASK
-Build 'The Academic Publisher' Agent Template in src/templates/academic-publisher.json. Guide founders in formatting drift detection metrics and compiling the KUTCH-TIRE-ANOMALY dataset.
+Implement the 'Benchmark Exporter' in src/data/benchmark-generator.js. Create a service that aggregates validated sensor passages from the digital twin into a standardized Parquet format. [span_7](start_span)constraints: Every entry must include metadata for the three "Scenario 2" pollution levels (None, Moderate, Extreme)[span_7](end_span). Use the Sovereign theme to log the real-time progress of the 1M passage export to the terminal.
 
 RULES
 1. Audit touched files first and identify regressions.

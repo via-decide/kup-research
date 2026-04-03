@@ -1,7 +1,7 @@
 {
   "repo": "via-decide/kup-research",
   "mode": "codex_then_antigravity",
-  "branch": "simba/build-the-academic-publisher-agent-template-in-s",
+  "branch": "simba/implement-the-benchmark-exporter-in-srcdatabench",
   "files_to_create": [
     "codex-task.md",
     "antigravity-repair-task.md",
