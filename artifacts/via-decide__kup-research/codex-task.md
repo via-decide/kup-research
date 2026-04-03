@@ -1,10 +1,10 @@
 You are working in repository via-decide/kup-research on branch main.
 
 MISSION
-Create the 'Peer Review' Agent Template in src/templates/peer-reviewer.json. Configure the system prompt to critique Research Output 1 (Data Drift) using AAAI/NeurIPS submission criteria.
+Build the 'Impact Scraper' in src/analytics/citation-tracker.py. Create a service that monitors Hugging Face downloads and Google Scholar citations for your published papers and datasets.
 
 CONSTRAINTS
-The agent must specifically look for "Scenario 2" collapse data and verify that the 1M synthetic vehicle passages from the benchmark are cited correctly. It should refuse to approve any paper that doesn't clearly explain why data-centric AI outperformed model complexity.
+The output must generate a weekly "Research Influence Report" formatted for Path 2 stakeholders. It must specifically track the use of your "Scenario 2" environmental chaos framework in other papers.
 
 PROCESS (MANDATORY)
 1. Read README.md and AGENTS.md before editing.

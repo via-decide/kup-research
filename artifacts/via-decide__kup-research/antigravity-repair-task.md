@@ -4,7 +4,7 @@ TARGET
 Validate and repair only the files touched by the previous implementation.
 
 TASK
-Create the 'Peer Review' Agent Template in src/templates/peer-reviewer.json. Configure the system prompt to critique Research Output 1 (Data Drift) using AAAI/NeurIPS submission criteria.
+Build the 'Impact Scraper' in src/analytics/citation-tracker.py. Create a service that monitors Hugging Face downloads and Google Scholar citations for your published papers and datasets.
 
 RULES
 1. Audit touched files first and identify regressions.

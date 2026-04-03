@@ -1,9 +1,9 @@
-Branch: simba/create-the-peer-review-agent-template-in-srctemp
-Title: Create the 'Peer Review' Agent Template in src/templates/peer-reviewe...
+Branch: simba/build-the-impact-scraper-in-srcanalyticscitation
+Title: Build the 'Impact Scraper' in src/analytics/citation-tracker.py. Crea...
 
 ## Summary
 - Repo orchestration task for via-decide/kup-research
-- Goal: Create the 'Peer Review' Agent Template in src/templates/peer-reviewer.json. Configure the system prompt to critique Research Output 1 (Data Drift) using AAAI/NeurIPS submission criteria.
+- Goal: Build the 'Impact Scraper' in src/analytics/citation-tracker.py. Create a service that monitors Hugging Face downloads and Google Scholar citations for your published papers and datasets.
 
 ## Testing Checklist
 - [ ] Run unit/integration tests
