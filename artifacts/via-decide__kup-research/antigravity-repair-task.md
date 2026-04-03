@@ -4,7 +4,7 @@ TARGET
 Validate and repair only the files touched by the previous implementation.
 
 TASK
-Implement the 'Benchmark Metadata Schema' in src/data/schema-validator.js. Define a JSON-LD structure for each vehicle passage that includes: 1) Ambient Temp ($20-48^{\circ}C$), 2) Signal-to-Noise Ratio (SNR), 3) Drift Coefficient, and 4) Anomaly Label.
+Build the 'Passage Sharder' in src/data/sharding-engine.js. Implement a logic that automatically splits the 1M vehicle passages into 10,000-entry Parquet shards.
 
 RULES
 1. Audit touched files first and identify regressions.
