@@ -1,9 +1,9 @@
-Branch: simba/implement-the-bias-comparator-in-srcanalyticsdis
-Title: Implement the 'Bias Comparator' in src/analytics/distribution-check.p...
+Branch: simba/create-the-methodology-architect-in-srcpublishme
+Title: Create the 'Methodology Architect' in src/publish/methodology-gen.js....
 
 ## Summary
 - Repo orchestration task for via-decide/kup-research
-- Goal: Implement the 'Bias Comparator' in src/analytics/distribution-check.py. Use the Kullback-Leibler (KL) Divergence formula to measure the difference between the Digital Twin's tire-pressure distribution ($P$) and the physical NHAI sensor baseline ($Q$).
+- Goal: Create the 'Methodology Architect' in src/publish/methodology-gen.js. This module must pull the $D_{KL}$ divergence scores and the Kalman Gain $(\mathbf{K}_k)$ charts from the current chaos simulation.
 
 ## Testing Checklist
 - [ ] Run unit/integration tests
