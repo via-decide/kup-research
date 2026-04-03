@@ -4,7 +4,7 @@ TARGET
 Validate and repair only the files touched by the previous implementation.
 
 TASK
-Implement the 'Dataset Exporter' in src/data/global-release.js. Package the 1M passages into 100 compressed Parquet shards, including the 'Provenance' hardware signatures.
+Execute the 'Final Paper Submission' logic in src/publish/academic-gate.js. Finalize the abstract for 'Sovereign Drift Recovery: Resilience at 48°C and 1M Passages.'
 
 RULES
 1. Audit touched files first and identify regressions.
