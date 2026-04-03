@@ -1,7 +1,7 @@
 {
   "repo": "via-decide/kup-research",
   "mode": "codex_then_antigravity",
-  "branch": "simba/build-the-grant-architect-agent-template-in-srct",
+  "branch": "simba/create-the-strategy-ingester-in-srcbridgeviadeci",
   "files_to_create": [
     "codex-task.md",
     "antigravity-repair-task.md",
