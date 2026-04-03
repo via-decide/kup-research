@@ -1,10 +1,10 @@
 You are working in repository via-decide/kup-research on branch main.
 
 MISSION
-Build the 'Benchmark Leaderboard' in src/web/leaderboard-api.js. Create an automated evaluation pipeline that accepts model weights from external researchers and calculates their accuracy against your extreme-climate noise scenarios.
+Implement the 'Research Prospectus' generator in src/docs/prospectus-gen.js. [span_14](start_span)This module uses the 'Academic Publisher' agent to draft initial abstracts for the three research outputs: Data Drift, the KUTCH-TIRE-ANOMALY dataset, and Data-Centric AI[span_14](end_span). [span_15](start_span)[span_16](start_span)constraints: Ensure the output highlights how KUP beats the 95% failure rate by focusing on data quality over model complexity[span_15](end_span)[span_16](end_span).
 
 CONSTRAINTS
-Automatically generate a "Citation Badge" for any researcher who uses the dataset, ensuring the 10K+ download and high-citation targets are met. Link every entry back to the original AAAI/NeurIPS paper outlines.
+Preserve existing code; prefer additive changes.
 
 PROCESS (MANDATORY)
 1. Read README.md and AGENTS.md before editing.
