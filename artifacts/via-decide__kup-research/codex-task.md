@@ -1,10 +1,10 @@
 You are working in repository via-decide/kup-research on branch main.
 
 MISSION
-Execute the 'Final Paper Submission' logic in src/publish/academic-gate.js. Finalize the abstract for 'Sovereign Drift Recovery: Resilience at 48°C and 1M Passages.'
+Create the 'Cold-Shard' manager in src/data/storage-optimizer.js. Automatically move Parquet shards older than 48 hours to remote storage.
 
 CONSTRAINTS
-- Ensure all $D_{KL}$ and Kalman math is LaTeX-perfect. - Include the citation for the 'KUTCH-TIRE-ANOMALY-1M' dataset on Hugging Face. - Log "ACADEMIC MOAT SECURED: SUBMISSION READY."
+- Keep a 'Vector-Index' of the cold data locally so the 'Academic Publisher' can still query it. - Log "SSD PURGE COMPLETED | [X] GB FREED | INDEX_INTEGRITY: 100%".
 
 PROCESS (MANDATORY)
 1. Read README.md and AGENTS.md before editing.

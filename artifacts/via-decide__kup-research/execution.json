@@ -1,7 +1,7 @@
 {
   "repo": "via-decide/kup-research",
   "mode": "codex_then_antigravity",
-  "branch": "simba/execute-the-final-paper-submission-logic-in-srcp",
+  "branch": "simba/create-the-cold-shard-manager-in-srcdatastorage-",
   "files_to_create": [
     "codex-task.md",
     "antigravity-repair-task.md",

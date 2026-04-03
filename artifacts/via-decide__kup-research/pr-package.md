@@ -1,9 +1,9 @@
-Branch: simba/execute-the-final-paper-submission-logic-in-srcp
-Title: Execute the 'Final Paper Submission' logic in src/publish/academic-ga...
+Branch: simba/create-the-cold-shard-manager-in-srcdatastorage-
+Title: Create the 'Cold-Shard' manager in src/data/storage-optimizer.js. Aut...
 
 ## Summary
 - Repo orchestration task for via-decide/kup-research
-- Goal: Execute the 'Final Paper Submission' logic in src/publish/academic-gate.js. Finalize the abstract for 'Sovereign Drift Recovery: Resilience at 48°C and 1M Passages.'
+- Goal: Create the 'Cold-Shard' manager in src/data/storage-optimizer.js. Automatically move Parquet shards older than 48 hours to remote storage.
 
 ## Testing Checklist
 - [ ] Run unit/integration tests
