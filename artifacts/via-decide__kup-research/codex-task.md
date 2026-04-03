@@ -1,10 +1,10 @@
 You are working in repository via-decide/kup-research on branch main.
 
 MISSION
-Implement the 'Bias Comparator' in src/analytics/distribution-check.py. Use the Kullback-Leibler (KL) Divergence formula to measure the difference between the Digital Twin's tire-pressure distribution ($P$) and the physical NHAI sensor baseline ($Q$).
+Create the 'Methodology Architect' in src/publish/methodology-gen.js. This module must pull the $D_{KL}$ divergence scores and the Kalman Gain $(\mathbf{K}_k)$ charts from the current chaos simulation.
 
 CONSTRAINTS
-Preserve existing code; prefer additive changes.
+- The 'Academic Publisher' agent must draft a LaTeX-compatible description of the "Sovereign Drift Recovery" framework. - Ensure the 100K passage "Scenario 2" dataset is cited as the primary benchmark.
 
 PROCESS (MANDATORY)
 1. Read README.md and AGENTS.md before editing.
