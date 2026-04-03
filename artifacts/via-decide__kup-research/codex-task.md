@@ -1,10 +1,10 @@
 You are working in repository via-decide/kup-research on branch main.
 
 MISSION
-Create the 'Impact-Story' generator in src/publish/founder-story.js. This module uses the 'Academic Publisher' agent to draft a 500-word "Mission Brief" for each project.
+Implement the 'Bias Comparator' in src/analytics/distribution-check.py. Use the Kullback-Leibler (KL) Divergence formula to measure the difference between the Digital Twin's tire-pressure distribution ($P$) and the physical NHAI sensor baseline ($Q$).
 
 CONSTRAINTS
-The story must focus on the "Human Impact" (e.g., saving lives on NH-41) and the "Technical Moat" (e.g., beating Context Rot). Automatically generate a high-signal README.md for their repository.
+Preserve existing code; prefer additive changes.
 
 PROCESS (MANDATORY)
 1. Read README.md and AGENTS.md before editing.
