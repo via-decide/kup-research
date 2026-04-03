@@ -4,7 +4,7 @@ TARGET
 Validate and repair only the files touched by the previous implementation.
 
 TASK
-Create the 'Strategy Ingester' in src/bridge/viadecide-link.js. This module must pull real-time drift detection and blowout-risk data from the lab and format it into "Strategic Insight Reports" for ViaDecide. [cite_start]constraints: The output must include ONDC-compatible metadata to trigger commercial discovery for tire inventory or maintenance services.[span_7](end_span)[span_8](end_span)[span_9](end_span)
+Implement the 'Benchmark Metadata Schema' in src/data/schema-validator.js. Define a JSON-LD structure for each vehicle passage that includes: 1) Ambient Temp ($20-48^{\circ}C$), 2) Signal-to-Noise Ratio (SNR), 3) Drift Coefficient, and 4) Anomaly Label.
 
 RULES
 1. Audit touched files first and identify regressions.
